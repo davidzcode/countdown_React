@@ -69,4 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## Authors
 
-* [**Florin Pop**](https://medium.com/@popflorin1705) - [*Menudim POST*](https://github.com/PurpleBooth)
+* [**Florin Pop**](https://medium.com/@popflorin1705) - [*Menudim POST*](https://medium.com/free-code-camp/how-to-create-a-countdown-component-using-react-momentjs-4717edc4ac3)
